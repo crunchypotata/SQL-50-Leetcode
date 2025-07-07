@@ -8,8 +8,8 @@ This repository contains my personal solutions to the [Top 50 SQL Questions](htt
 
 ## 📁 Topics
 
-- [`Select`](Select/) — Basic `SELECT`, `WHERE`, `DISTINCT`
-- [`Basic_Joins`](Basic_Joins/) — `INNER JOIN`, `LEFT JOIN`
+- [`Select`](Select/) — Basic `SELECT`, `WHERE`, `DISTINCT`, `HAVING`
+- [`Basic_Joins`](Basic_Joins/) — `INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN`, `FULL OUT JOIN`
 - [`Basic_Aggregate_Function`](Basic_Aggregate_Function/) — `COUNT`, `SUM`, `AVG`, `GROUP BY`
 
 
